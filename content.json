@@ -1,0 +1,486 @@
+{
+  "background": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423175/costa-studio/rl3zat4h8uo5e9gqdpu7.jpg",
+  "theme": "dark",
+  "lang": "en",
+  "categories": [
+    {
+      "id": "nanobanana2",
+      "name": {
+        "en": "Nano Banana 2",
+        "ar": "نانو بانانا 2"
+      },
+      "icon": "🍌",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423203/costa-studio/mkil5is957gv2pjzmuyk.jpg",
+      "color": "linear-gradient(135deg, oklch(80% 0.17 95), oklch(75% 0.17 60))",
+      "x": 1338,
+      "y": 230
+    },
+    {
+      "id": "c_a5xyeqr",
+      "name": {
+        "en": "SEEDANCE 2.0",
+        "ar": "SEEDANCE 2.0"
+      },
+      "icon": "📁",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777427536/costa-studio/j3fzrrhkkeqqhvf3l1wi.webp",
+      "color": "linear-gradient(135deg, oklch(70% 0.16 200), oklch(60% 0.18 240))",
+      "x": 61.479305737774816,
+      "y": 216.57600724267968
+    }
+  ],
+  "prompts": [
+    {
+      "id": "p_kqdcj8c",
+      "title": "Cyberpunk noir",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425308/costa-studio/nhrdewxckbyuvwjpok5y.jpg",
+      "promptText": "Comic-book animation | Spider-Verse visual language | Cyberpunk noir",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425257/costa-studio/hqtopynvasktmp4s1wji.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425262/costa-studio/hc4gqjfrhsplh1wchwwg.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425251/costa-studio/w9eiq8b0brv39qr1lwio.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425252/costa-studio/w7ax1f5ntsqo2t6dokai.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425261/costa-studio/ir5idpiynmvauc2erbb9.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425259/costa-studio/errpl0g9oa66w65guvkr.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425267/costa-studio/rfclxae9hzg208anklta.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425266/costa-studio/kjk5dogb2dqdpsxpmbp0.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425274/costa-studio/ewegz1l7wdxtmmtfpo3s.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425274/costa-studio/jsnrbbadtlamyyeeeiv2.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425278/costa-studio/bucjlicguwxu93s06sqf.jpg"
+      ],
+      "x": 361.7832546208547,
+      "y": 152.1078557102062
+    },
+    {
+      "id": "p_2r1tz75",
+      "title": "funny sketch cartoon",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425165/costa-studio/akkaevcxuf7k61osj2xz.jpg",
+      "promptText": "Convert this image into a funny sketch cartoon effect, digitally drawn with expressive ink-style outlines, and exaggerated but recognizable facial features. Use vivid digital colors with subtle shading and mild hatching. Maintain a clean [white] background with a few gestural elements to suggest movement. The style should feel lively. energetic, and hand-drawn, capturing the intensity in a playful, caricature-like tone. The overall aesthetic is kinetic and full of personality",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425204/costa-studio/qe51bsgzltcgderqhqjt.png",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425192/costa-studio/mtef1rnlxcyyo8124ajp.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425197/costa-studio/pr4eyrtrnkyraqnswj8n.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425195/costa-studio/hyi3zezxz0xa9e8v7znd.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425197/costa-studio/afe4fu0hlesfzawjbwsv.png"
+      ],
+      "x": 257.8182826502407,
+      "y": 132.0909221380643
+    },
+    {
+      "id": "p_3lex57b",
+      "title": "Chibi or Kawaii style",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425353/costa-studio/rk9sb8tt7gczkw9mtebm.jpg",
+      "promptText": "Turn this image into a Chibi or Kawaii style image. You can copy the background or change it.",
+      "refImages": [],
+      "x": 376.4071855777457,
+      "y": 200.50381552339454
+    },
+    {
+      "id": "p_gguu1rb",
+      "title": "low poly character sheet",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425446/costa-studio/w0miwcr5zozpfhtogdco.jpg",
+      "promptText": "low poly character sheet PROMPT:3D character sheet of a [INSERT YOUR CHARACTER DESCRIPTION HERE], low poly style, orthographic view, multiple angles, front view, side view, back view, flat shading, game asset, minimalistic, geometric shapes, clean lines, white background, 4k, blender render, stylized, uniform lighting --ar 3:2",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425461/costa-studio/yghhcjytyfqspucsh60u.png",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425459/costa-studio/gpt7mck3vbdhaqejljwv.png"
+      ],
+      "x": 372.7639939583444,
+      "y": 261.4669919245099
+    },
+    {
+      "id": "p_3smk690",
+      "title": "Grand Theft Auto VI",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425508/costa-studio/gv3liqfcmnsrtmx2pk1v.jpg",
+      "promptText": "Create a Grand Theft Auto VI style image. Use photos and transform them into vibrant GTA-style illustrations. character should have exaggerated comic-book shading, neon tones, and Miami Vice–inspired colors (pink, purple, teal, orange). Make the background feature palm trees, nightlife, city skylines, and cars. Ensure the style looks consistent, polished, and matches",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425518/costa-studio/mwmb2y0sgoxxbrn1hksn.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425515/costa-studio/fiaid6xmwoit8nnlinvl.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425531/costa-studio/iqpetnckpcozrzwvbvfr.png"
+      ],
+      "x": 378.6153623855111,
+      "y": 122.9523283106653
+    },
+    {
+      "id": "p_167n8xv",
+      "title": "9 charecter",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425624/costa-studio/bl1mpyioppy7kketj2jx.jpg",
+      "promptText": "สร้างภาพ 3D แนว Pixar ของ charecter ครึ่งตัว อ้างอิงภาพที่แนบมา ทําเป็น 9 charecter หลากหลายอารมณ์ สําหรับสติ๊กเกอร์ เช่น 😀,😁,🤣,😊,🙂,😍,🥰,😘,😛,🤪,🧐,😎,🤩,😖,😩. การออกแบบมีความคมชัด สะอาด และสมจริงมาก ภาพมีความละเอียดสูง โปรดตรวจสอบให้แน่ใจว่าสติกเกอร์ไม่ใกล้เคียงกัน ใส่ชุดตามไฟล์ที่เเนบ. ไม่ต้องมีข้อความระบุ",
+      "refImages": [],
+      "x": 239.49168908968412,
+      "y": 161.12329497684232
+    },
+    {
+      "id": "p_6spspm3",
+      "title": "3d games",
+      "categoryId": "nanobanana2",
+      "tool": "gemini",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425818/costa-studio/qrktwmlaetlkluanwwe2.jpg",
+      "promptText": "Use the nano-banana model to create a 1/7 scale commercial figure of the figure in the illustration (person and car) in a realistic style and environment. Place the figure on a computer desk using a circular, clear acrylic base with no text. View the figure's ZBrush modeling progress on the computer screen. Place a BANDAI-style toy packaging box with the original artwork printed next to the computer screen. Instagram post size is 3:2.",
+      "refImages": [],
+      "x": 362.92308137199007,
+      "y": 115.15181671529233
+    },
+    {
+      "id": "p_frzhy0a",
+      "title": "mug",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425870/costa-studio/j3qv7ogcgj4rrj5pyahp.jpg",
+      "promptText": "\"Preserving my likeness, create a ceramic mug version of my head. Make my head the entire mug.\"",
+      "refImages": [],
+      "x": 322.21318845573666,
+      "y": 235.324081180278
+    },
+    {
+      "id": "p_refmwkp",
+      "title": "",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425912/costa-studio/onudjkx05a3usove4pdx.jpg",
+      "promptText": "Usa las características faciales de la foto adjunta y Crea un retrato hiperrealista y dramático de un joven con ojos grises enmarcados por un despeinado cabello ondulado de color castaño oscuro. Su rostro está parcialmente oculto por dos manos  con  garras negras que surgen de atras cubiertas de hollín o ceniza negra, simbolizando  miedo. Una mano cubre un ojo, otra cubre su boca. Revela solo su ojo izquierdo lloroso que mira directamente al espectador con una mirada penetrante y llena de miedo\nSu rostro y cuerpo también están manchados de negro, añadiendo a la estética y áspera. Solo una simple camiseta blanca manchada de ollin o ceniza negra. El fondo está suavemente desenfocado, con tonos cálidos y apagados que contrastan con la oscuridad de las manos. El estado de ánimo general es inquietante, poderoso y simbólico, evocando temas de silencio, resiliencia y fuerza\noculta.",
+      "refImages": [],
+      "x": 274.3420031332928,
+      "y": 211.8290405325651
+    },
+    {
+      "id": "p_g43lwyc",
+      "title": "تصحيح الصور",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425957/costa-studio/u6t12q93udlewtchzqbz.jpg",
+      "promptText": "Transform the source image by applying a dramatic, warm cinematic aesthetic typical of high-end music videos. Crucially, the lighting must feature a strong, warm backlight (rim light) originating from behind the subject, creating a glowing golden halo on their hair and shoulders that separates them from the background, while also ensuring ample, soft frontal light on the subject's face so that facial features are clearly and evenly illuminated. The overall atmosphere should be emotional and moody with a shallow depth of field (blurred background), dominated by rich amber, gold, and deep shadow tones, precisely maintaining the original subject's facial features, pose, outfits, background, and gender 100% accurate. Perform a realistic upscale, bringing the subject into extremely sharp focus with enhanced skin texture and detail, styled as bright daytime photography with natural outdoor ambient light retained in the scene and sufficient key light on the face for a well-exposed portrait.",
+      "refImages": [],
+      "x": 392.2129573157427,
+      "y": 102.13773475424992
+    },
+    {
+      "id": "p_go7klqv",
+      "title": "3D cartoon portrait",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426050/costa-studio/ezwfknyxceun75chbhji.jpg",
+      "promptText": "Convert the input photo into a hyper-expressive 3D cartoon portrait in the exact style of the provided reference image. Use all the real facial features from the original person image including skin tone, eyebrows, lips, nose shape, beard, and overall bone structure but exaggerate them with stylized proportions. Eyes should be large and wide open, slightly bulging for comedic expression, with intense catchlights. The mouth must appear dramatically open, lips thick and glossy, showing surprise or shock. Skin must be realistically textured with visible pores and facial hair. Add detailed accessories matching the input photo (earrings, bandanas, chains). Lighting setup should use sharp contrast: a dramatic key light from the left, soft fill from right, and subtle rim lighting. Use a cool gradient background (dark blue to gray) to keep focus on the character. Maintain high anatomical accuracy in a Pixar-Illumination hybrid visual language. High resolution, rendered with clay-style material finish.",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426077/costa-studio/gi87x2zewevc9q1n7ej7.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426077/costa-studio/wqqv7goly8hgmeduhe63.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426081/costa-studio/u7i2vca865und4iicbid.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426071/costa-studio/nvdygipl3r5lpavx23c5.jpg"
+      ],
+      "x": 221.72251301177405,
+      "y": 132.85425626059245
+    },
+    {
+      "id": "p_du6jnkf",
+      "title": "glitch",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426123/costa-studio/inadm16ipxc5nuwgu7xm.jpg",
+      "promptText": "create a high-fashion, cinematic half-length portrait of the person from the input photo, rendered in a dream-like editorial aesthetic with intentional multi-exposure motion blur effects that replicate flight movement and layered color strokes across the figure. the subject stands against a clean, solid blue gradient background transitioning from deep azure (#0033ad) at the top to lighter cyan (hooaeff) at the bottom, with no visible horizon or distractions. the person wears a slightly oversized t-shirt with soft natural color designed to catch colored black transitions. lighting is directional and high-contrast, combining a cool monochromatic blue ambient wash with soft orange backlight where light hits the shoulders, neck, and hair, creating an authentic halo effect on the contour of the face, hair, and shirt. the expression is neutral or introspective, with eyes partially shadowed or softly lit. simulate a 60 full-frame lens at f/1.8 to achieve shallow depth of field, using cine",
+      "refImages": [],
+      "x": 239.55535138921192,
+      "y": 242.15524183622074
+    },
+    {
+      "id": "p_56cirrj",
+      "title": "Reconstruct the attached cartoon character",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426179/costa-studio/owbifujagti0kvza7ecn.jpg",
+      "promptText": "Reconstruct the attached cartoon character into a hyper-realistic cinematic live-action version while preserving the original identity, proportions, facial expression, and personality.\n\nTransform the character into a physically plausible 3D realistic form with detailed textures, natural anatomy, realistic fur/skin/clothing materials, and lifelike surface shading.\n\nKeep the pose and emotion identical to the original image.\n\nAdd cinematic lighting (golden hour or dramatic film lighting), volumetric light, shallow depth of field, 85mm lens look, global illumination, high dynamic range, ultra-detailed textures, subsurface scattering, realistic shadows.\n\nFilm still, Hollywood-level cinematography, ultra realistic rendering, 8K, masterpiece, immersive atmosphere.\n\nphysically based rendering, unreal engine 5, octane render, ray tracing, cinematic color grading, professional movie production quality",
+      "refImages": [],
+      "x": 336.9304705027696,
+      "y": 208.73277428935154
+    },
+    {
+      "id": "p_rcvaf64",
+      "title": "Transform the cartoon character",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426233/costa-studio/qousbkdmyzbdwtrxt4dr.jpg",
+      "promptText": "Transform the cartoon character into an ultra-realistic cinematic 3D version while strictly preserving the original character design, proportions, pose, facial expression, and identity.\n\nCreate a highly detailed photorealistic interpretation:\nsoft natural fur with visible fibers, realistic skin shading, subsurface scattering, physically based rendering (PBR materials), micro surface details, realistic fabric cloth simulation for the diaper, natural wrinkles and stitching details.\n\nEnvironment becomes realistic while matching the original scene concept:\ncinematic sandy ground with scattered bones, natural textures, believable scale, grounded shadows and contact lighting.\n\nLighting & camera:\ncinematic golden-hour lighting, soft global illumination, dramatic sky atmosphere, low-angle hero shot, shallow depth of field, realistic lens compression, film-quality color grading.\n\nStyle:\nPixar-quality realism blended with live-action photography, Unreal Engine cinematic render look, ultra sharp focus, HDR lighting, volumetric light, professional movie still aesthetic.\n\nQuality:\nextreme detail, 8K resolution, ultra realistic textures, clean rendering, high dynamic range, cinematic composition.\n\nImportant:\nkeep the character recognizable and faithful to the original cartoon — realism upgrade only, no redesign.",
+      "refImages": [],
+      "x": 387.80323680862637,
+      "y": 237.36371122484164
+    },
+    {
+      "id": "p_1ytud6n",
+      "title": "stylized 3D caricature portrait",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426328/costa-studio/mpznh76xlrdaymyrlogv.jpg",
+      "promptText": "Create an exaggerated, stylized 3D caricature portrait based on the person in the attached reference photo. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form.\nApply strong, intentional deformation, including an elongated neck, an oversized head-to-neck ratio, droopy eyelids, heavy lips, and subtle facial asymmetry. The character should remain human-like while clearly stylized and expressive.\nUse a clean, controlled surface finish with smooth, studio-quality skin. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nDress the character in luxury fashion with bold, high-end accessories, creating a weird, fashion-forward, collectible aesthetic that feels character-driven rather than cute or realistic.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, and noise-free, with professional studio render quality.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426339/costa-studio/us7z6kbo3yg6blvugpx4.jpg"
+      ],
+      "x": 343.0773389921425,
+      "y": 274.85680438238023
+    },
+    {
+      "id": "p_b0uf4c7",
+      "title": "extrem lustige Karikatur",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426402/costa-studio/sbprvxklbc2u1qnpygws.jpg",
+      "promptText": "Erstelle eine übertriebene, extrem lustige Karikatur im professionellen Illustrator-Stil basierend auf meinem Portrait (Datei anhängen).\nDer Gesichtsausdruck soll stark überzeichnet sein, mit großen Augen und einer extremen Mimik - zum Beispiel schockiert, lachend oder verwirrt. Verwende fette schwarze Outlines im Cartoon- bzw.\nKarikatur-Stil. Frisur, Brille, Tattoos und Hoodie sollen erkennbar bleiben, aber humorvoll übertrieben dargestellt werden. Die Illustration soll sauber, hochauflösend und wie von einem Profi-Illustrator wirken. Nutze einen weißen Hintergrund mit klaren Kontrasten, damit das Bild modern, witzig und direkt einsetzbar ist.",
+      "refImages": [],
+      "x": 315.1459664645488,
+      "y": 109.85050487009885
+    },
+    {
+      "id": "p_r348hv0",
+      "title": "برومبت اصلاح الصور القديمة ",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426495/costa-studio/ibcai85ekmhybk2hpdsc.jpg",
+      "promptText": "\nRestore and enhance an old damaged black-and-white reference photograph. Remove cracks, scratches, and stains, and reconstruct missing details. Improve sharpness and convert it into high-resolution HD quality. Colorize the image realistically with natural skin tones and period-accurate clothing colors. Keep facial features authentic and unchanged. Add soft natural lighting and a slightly blurred outdoor background with greenery for a realistic, timeless look.",
+      "refImages": [],
+      "x": 273.9982421425118,
+      "y": 142.6415519758179
+    },
+    {
+      "id": "p_88ff935",
+      "title": "3D paper craft",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426545/costa-studio/nbdulbwdhoxefgjgvaqi.jpg",
+      "promptText": "Transform this image [Upload Your Image] into a highly detailed 3D paper craft figurine of the same person, designed in a stylized origami / low-poly paper art style. The character should have sharp folded paper edges, geometric features, and a handcrafted look.\nThe figure is standing upright on a cutting mat workbench, surrounded by crafting tools like precision knives, scissors, paper scraps, and glue bottles. A hand is gently holding the figure while another hand applies a drop of glue on the head, adding realism and depth.\nOutfit should be modern and vibrant (red jacket, white shirt, teal pants, matching sneakers), with colored hair and beard matching the artistic theme. Include stylish sunglasses for a cool, designer toy aesthetic Gemini \nLighting should be warm and soft with a shallow depth of field, creating a cozy studio environment. Ultra-detailed textures, DSLR quality, 8K resolution, sharp focus on the figure, blurred background bokeh.",
+      "refImages": [],
+      "x": 363.64849814637694,
+      "y": 100.55505008370729
+    },
+    {
+      "id": "p_l2bu0di",
+      "title": "Storyboard",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426645/costa-studio/p7xct56mhc7szsbnjmzm.jpg",
+      "promptText": "“CORE OBJECTIVE: Create a professional 8k studio editorial based on [ATTACHED_INPUT_IMAGE]. Analyze subject geometry, material, and branding to maintain logic across 7 seamless panels.( the man is the product)\n\nSTEP 1: DYNAMIC ANALYSIS\nIdentify: Subject, logo (or name), and material.\n\nMaterial Logic: Tech (sharp rim lights), Glass (refraction/caustics), Organic (soft light), Fashion (matte/satin sheen).\n\nCOMPOSITION & STRUCTURE\nSingle seamless image. Top: 1 Hero Panel. Bottom: 2x3 Grid (6 panels). Total 7 views. No text or borders (except Frame 2).\n\nPANEL SPECIFICATIONS\nMAIN HERO: Centered master portrait on infinite-curve background. Lighting highlights primary material.\n\nF1 (Macro): Extreme close-up on material “DNA” (microscopic grain, textures, or circuitry).\n\nF2 (Logo): 3D premium brand emblem centered on a minimalist studio backdrop.\n\nF3 (Scale): Subject in size-appropriate context (gallery for large, pedestal for small).\n\nF4 (Rhythm): High-angle “knolling” or grid repetition of components.\n\nF5 (Motion): Weightless action-still with environmental cues (vapor, sparks, or splashes).\n\nF6 (Form): High-contrast rim-lit profile focusing purely on the iconic silhouette.\n\nVISUAL ENFORCEMENT\nStyle: Ultra-high-end Studio Editorial.\n\nConsistency: 100% identical color and design details across all views.\n\nTechnical: 8k, ray-traced reflections, professional grading, global illumination.”",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426669/costa-studio/xzmdxntqii0yieldwjq8.jpg"
+      ],
+      "x": 286.8805063243292,
+      "y": 188.2838555434611
+    },
+    {
+      "id": "p_l6cn8ve",
+      "title": "1970s Marvel covers",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426781/costa-studio/xx2ezjutemqaf2p2tiad.jpg",
+      "promptText": "Create a vintage comic book portrait in the style of 1970s Marvel covers. Use bold ink outlines, saturated retro colors (like faded reds, yellows, and blues), and halftone shading. Add a slight paper texture and aged printing effect (such as subtle wear, ink bleed, and color offset).\n\nFacial features must be preserved with absolute accuracy from the original reference — no changes whatsoever to expression, bone structure, proportions, or fine details. This includes maintaining the exact shape and position of the eyes, nose, mouth, and jaw.\n\nApply dramatic, stylized lighting with sharp comic-style highlights and shadows. Optional: include explosive background lines or action bursts for emphasis. The final image should appear as a printed comic book cover from the Bronze Age era, with expressive linework and vintage comic aesthetics — but with facial realism fully intact.",
+      "refImages": [
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426820/costa-studio/gynssemgbpezli6m9nz1.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426817/costa-studio/dramecexbn0qmkfmhdle.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426819/costa-studio/mgmwnxplquefsvi1eupm.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426808/costa-studio/nps2ytr6cetjxhcbu6of.jpg",
+        "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426817/costa-studio/eprtbygymaiyrmyasdyi.jpg"
+      ],
+      "x": 370.234534099856,
+      "y": 184.90362715878678
+    },
+    {
+      "id": "p_slg7ef8",
+      "title": "wide-angle fisheye perspective",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426892/costa-studio/b08pvbnks9tkg9avxuus.jpg",
+      "promptText": "Extreme wide-angle fisheye perspective, overhead camera looking straight down at the subject in a dynamic low-crouch pose. High-quality 3D stylized cartoon render, similar to Pixar or Dreamworks. The character features: highly textured curly afro hair, realistic detailed skin texture, intense, focused amber eyes, and a stern expression. Strong, high-contrast studio lighting creating reflections in the eyes. Subject holds a product object with one hand while the other hand rests on the ground for balance. Clean, vibrant [Insert Your Desired Color, e.g., Orange] studio background with soft falloff, minimalist poster composition with negative space for text.\"",
+      "refImages": [],
+      "x": 264.2698976023518,
+      "y": 185.30099395501543
+    },
+    {
+      "id": "p_0zrsyf8",
+      "title": "cinematic 3D style",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777426978/costa-studio/zeehwjczwnpajvcx0nar.jpg",
+      "promptText": "I want this photo in a cinematic 3D style",
+      "refImages": [],
+      "x": 393.99235923906133,
+      "y": 189.65510996265812
+    },
+    {
+      "id": "p_2myjwk7",
+      "title": "BLINDER",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777427037/costa-studio/ovbu8uhgmtq7x7dhi7uk.jpg",
+      "promptText": "High-fidelity 3D software interface screenshot, Blender (dark theme) in developer/debug mode, ultra-detailed precision UI, hyper-realistic render + technical diagnostics overlay, crisp, high-resolution screen capture.Blender layout visible: top menu & workspace tabs (Layout, Modeling, Shading, Rendering), outliner (structured hierarchy), properties panel (render, materials, scene, camera expanded), timeline (frame indicators), left toolbar, bottom debug console.\n\nDeveloper overlays ON: FPS, frame time (ms), GPU/CPU usage, VRAM, polygon count (tris/verts), object stats, render samples, camera transform data.\nThree vertically stacked viewport panels (9:16): • Front (orthographic feel)• Three-quarter (slight perspective)\n• Side profile\n\nEach with grid, XYZ gizmo, bounding box, pivot, camera guides.\nSame objects in all panels, facial identity locked, neutral expression, anatomically consistent.\n\nUE5 + Octane hybrid rendering: cinematic lighting, path tracing, global illumination, ray tracing, soft shadows, subsurface scattering, accurate reflections.Debug material blend: photorealistic render + glowing wireframe + partial topology + subtle heatmap/normal hints, seamlessly merged.\n\nShader/node indicators visible: PBR nodes, texture slots (albedo/normal/roughness), floating debug labels, mesh density tags.\nViewport environment: dark grey gradient, fine grid, clean technical workspace.\n\nDense UI: compact icons, sliders, numeric values, toggles, sharp anti-aliased text, no empty space.\n\nTrue screen capture look, ultra-sharp, no DOF or blur.",
+      "refImages": [],
+      "x": 328.6753335713419,
+      "y": 257.22023704047285
+    },
+    {
+      "id": "p_w93eabo",
+      "title": "Ultra wide-angle",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777427104/costa-studio/j9m8bcsiaevxae4qdgqp.jpg",
+      "promptText": "Ultra wide-angle hyper-realistic top-down shot. A group of 4 real people sitting at a square dining table. The camera is pulled far back, creating significant negative space (empty floor area) around the people and the table, ensuring a clean minimalist composition.\nScene [ATMOSPHERE AND CLOTHING]: Four people are dressed in [CLOTHING STYLE]. Their interaction is specific: [DESCRIBE THE ACTIONS OF EACH PERSON].\nThe table is a custom-made physical prop designed as an Instagram post: it features solid white bars ONLY at the top and bottom edges (no white borders on the left or right).\nOn the top white bar: a drawn profile picture with [LOGO DESCRIPTION], the username \"[USERNAME]\", followed by a small blue verified checkmark badge, and \"...\" on the right.\nOn the bottom white bar: on the left are drawn red heart icons, comment icons, and share icons, and on the right is a \"Bookmark\" icon.\nThe center of the table is filled with [EXACT CENTER COLOR and HEX CODE]. On the table are [FOOD ITEMS / OBJECT DESCRIPTION].\nIMPORTANT: ALL food, drinks, objects, and hands interacting with them must remain strictly WITHIN this central colored area in [COLOR]. NOTHING should extend beyond the white bars or outside the table.\nThe floor background is in [FLOOR COLOR] to create visual separation.\nProfessional studio lighting with sharp shadows. 8k, sharp focus.",
+      "refImages": [],
+      "x": 369.8397979480239,
+      "y": 140.98611232078682
+    },
+    {
+      "id": "p_bq7nhih",
+      "title": "glass Effect",
+      "categoryId": "nanobanana2",
+      "tool": "nanobanana2",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777427205/costa-studio/oht7hux2knnpq1wb32nc.jpg",
+      "promptText": "Apply ONLY the visual style and aesthetic characteristics described below to the uploaded image or shape.\n\nSTRICT RULES:\n- Do NOT add any new elements, objects, icons, or text.\n- Do NOT change the original composition, structure, or proportions.\n- Do NOT reinterpret or redesign the concept.\n- ONLY transfer the style, materials, lighting, and visual effects onto the exact provided shape.\n\nSTYLE TO APPLY:\nVisual inspiration, AI-generated illustration style, clean and modern digital aesthetic, glassmorphism, 3D glass effect, smooth transparent materials, soft reflections, subtle highlights, depth and refraction, futuristic minimalism, high-end digital art look, trending visual style 2025.\n\nRENDER DETAILS:\n- Ultra clean background (white or very light neutral).\n- High resolution, sharp edges.\n- Soft studio lighting with realistic reflections.\n- Transparent or semi-transparent glass material.\n- Subtle shadows and depth.\n\nIMPORTANT:\nThe final result must look like the ORIGINAL uploaded shape transformed into this style — nothing more, nothing less.",
+      "refImages": [],
+      "x": 325.20802668850496,
+      "y": 148.49360052570213
+    },
+    {
+      "id": "p_wfko516",
+      "title": "promptati",
+      "categoryId": "nanobanana2",
+      "tool": "myshots",
+      "heroImage": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777427340/costa-studio/xaomhwneenjkswhgeh9w.jpg",
+      "promptText": "https://promptati.com",
+      "refImages": [],
+      "x": 384.9286222221226,
+      "y": 212.43551061754863
+    }
+  ],
+  "dock": [
+    {
+      "id": "d1",
+      "kind": "app",
+      "appId": "ae",
+      "label": "After Effects",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425050/costa-studio/xlntyvhljntx0yztrwzl.png",
+      "iconText": "Ae",
+      "color": "linear-gradient(135deg, #1a0e3a, #0a0420)",
+      "textColor": "#c9b6ff"
+    },
+    {
+      "id": "d3",
+      "kind": "app",
+      "appId": "ai",
+      "label": "Illustrator",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777425008/costa-studio/apm9ogkssurf7pi62ttz.png",
+      "iconText": "Ai",
+      "color": "linear-gradient(135deg, #2a0a00, #1a0500)",
+      "textColor": "#ff8a3c"
+    },
+    {
+      "id": "d2",
+      "kind": "app",
+      "appId": "ps",
+      "label": "Photoshop",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423453/costa-studio/mib84plf7lzuzunvsdqv.png",
+      "iconText": "Ps",
+      "color": "linear-gradient(135deg, #001833, #000a1a)",
+      "textColor": "#3ca8ff"
+    },
+    {
+      "id": "d4",
+      "kind": "app",
+      "appId": "warning",
+      "label": "NANOBANANA",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423539/costa-studio/lnokhbfrmxq0p0zbm6i3.png",
+      "iconEmoji": "⚠️",
+      "color": "linear-gradient(135deg, #f7c948, #e0a800)"
+    },
+    {
+      "id": "d6",
+      "kind": "app",
+      "appId": "notes",
+      "label": "Notes",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423976/costa-studio/qb3c5wcpw2665gyipkj5.png",
+      "iconEmoji": "📝",
+      "color": "linear-gradient(135deg, #fff8d6, #f5e89c)"
+    },
+    {
+      "id": "d7",
+      "kind": "app",
+      "appId": "photos",
+      "label": "Photos",
+      "iconImg": "data:image/webp;base64,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",
+      "iconEmoji": "🌸",
+      "color": "linear-gradient(135deg, #fff, #e8e8ed)"
+    },
+    {
+      "id": "d9",
+      "kind": "url",
+      "url": "mailto:hello@costaai.com",
+      "label": "Mail",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423730/costa-studio/bx8pyujq6hyoub1581gy.webp",
+      "iconEmoji": "✉️",
+      "color": "linear-gradient(135deg, #4ea8ff, #1670d8)"
+    },
+    {
+      "id": "d8",
+      "kind": "url",
+      "url": "https://www.instagram.com",
+      "label": "Instagram",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423632/costa-studio/rqbe1lhsfnszfmhl8wp2.png",
+      "iconEmoji": "📸",
+      "color": "linear-gradient(135deg, #f09433, #dc2743, #bc1888)"
+    },
+    {
+      "id": "d_43a468d",
+      "kind": "ai",
+      "url": "https://",
+      "label": "Gemini Pro",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777424130/costa-studio/nrk2toeamliakgwmocji.png",
+      "iconText": "",
+      "iconEmoji": "🌐",
+      "color": "linear-gradient(135deg, #5b5b66, #2a2a30)",
+      "textColor": "#ffffff",
+      "aiId": "gemini-pro"
+    },
+    {
+      "id": "d10",
+      "kind": "app",
+      "appId": "trash",
+      "label": "Trash",
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777423905/costa-studio/zvq40r97uxgxtxuan6j2.png",
+      "iconEmoji": "🗑️",
+      "color": "linear-gradient(135deg, #b8b8c0, #7a7a82)"
+    },
+    {
+      "iconImg": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777424009/costa-studio/wwed3tbjwxpmrbvsc7iy.jpg",
+      "label": "MAZEN.COSTA"
+    }
+  ],
+  "logoMark": {
+    "iconImg": null,
+    "iconText": "C",
+    "color": "linear-gradient(135deg, oklch(70% 0.18 30), oklch(75% 0.18 90))"
+  },
+  "aiProviders": [
+    {
+      "id": "gemini-pro",
+      "name": "Gemini Pro",
+      "provider": "builtin",
+      "systemPrompt": "You are Gemini Pro, a helpful, concise creative assistant for an AI prompt studio. Help the user write, refine, and translate prompts for image and video generation tools. When asked, output in clear, copyable form.",
+      "iconEmoji": "✦",
+      "color": "linear-gradient(135deg, oklch(65% 0.18 250), oklch(70% 0.16 290))"
+    }
+  ],
+  "geminiSettings": {
+    "apiKey": "",
+    "enabledModels": [
+      "gemini-2.5-pro",
+      "gemini-2.5-flash",
+      "gemini-2.5-flash-image",
+      "imagen-4.0-generate-001"
+    ]
+  },
+  "gallery": []
+}
